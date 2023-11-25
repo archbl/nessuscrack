@@ -1,4 +1,4 @@
-# Nessus Crack 2023 - 32 IPs Bypass - Unlimited IP Scan - Harsh Dhamaniya
+# Nessus Crack 2023 - 32 IPs Bypass - Unlimited IP Scan 
 ---
 
 ## Download and Install Nessus
