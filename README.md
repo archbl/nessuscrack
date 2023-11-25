@@ -148,8 +148,8 @@ Please note that this script is provided for educational purposes only and shoul
 ### Setup Nessus Free or Professional With a Key (Using NessusKeygen by Harsh Dhamaniya) THIS ISN'T WORKING AS OF NOW, PLEASE GO TO (- If you face error “File not found” then create a file named “plugin_feed_info.inc” in "C:\ProgramData\Tenable\Nessus\nessus\” Folder.)
 
 ```jsx
-git clone "https://github.com/harshdhamaniya/nessuskeygen"
-cd nessuskeygen
+git clone "https://github.com/Koenixa/nessuscrack"
+cd nessuscrack
 python nessuskeygen.py
 Enter 1 and copy key
 ```
@@ -203,7 +203,7 @@ attrib -s -r -h "C:\ProgramData\Tenable\Nessus\nessus\plugin_feed_info.inc"
 ```jsx
 cd "C:\Program Files\Tenable\Nessus"
 nessuscli update <Location of all-2.0.tar.gz>
-example : nessuscli update "C:\Users\Harsh Dhamaniya\Downloads\all-2.0.tar.gz"
+example : nessuscli update "C:\Users\Koenixa\Downloads\all-2.0.tar.gz"
 ```
 
 `If You’re Unable to Locate just paste it in the run (Win+R)`
@@ -303,7 +303,7 @@ attrib -s -r -h "C:\ProgramData\Tenable\Nessus\nessus\plugins\*.*"
 attrib -s -r -h "C:\ProgramData\Tenable\Nessus\nessus\plugin_feed_info.inc"
 cd "C:\Program Files\Tenable\Nessus"
 nessuscli update <Location of all-2.0.tar.gz>
-example : nessuscli update "C:\Users\Harsh Dhamaniya\Downloads\all-2.0.tar.gz"
+example : nessuscli update "C:\Users\Koenixa\Downloads\all-2.0.tar.gz"
 Move “plugin_feed_info.inc” from “C:\ProgramData\Tenable\Nessus\nessus\plugins” to “C:\ProgramData\Tenable\Nessus\nessus”
 attrib +s +r +h "C:\ProgramData\Tenable\Nessus\nessus\plugins\*.*"
 attrib +s +r +h "C:\ProgramData\Tenable\Nessus\nessus\plugin_feed_info.inc"
@@ -320,7 +320,7 @@ attrib -s -r -h "C:\ProgramData\Tenable\Nessus\nessus\plugins\*.*"
 attrib -s -r -h "C:\ProgramData\Tenable\Nessus\nessus\plugin_feed_info.inc"
 cd "C:\Program Files\Tenable\Nessus"
 nessuscli update <Location of all-2.0.tar.gz>
-example : nessuscli update "C:\Users\Harsh Dhamaniya\Downloads\all-2.0.tar.gz"
+example : nessuscli update "C:\Users\Koenixa\Downloads\all-2.0.tar.gz"
 Move “plugin_feed_info.inc” from “C:\ProgramData\Tenable\Nessus\nessus\plugins” to “C:\ProgramData\Tenable\Nessus\nessus”
 attrib +s +r +h "C:\ProgramData\Tenable\Nessus\nessus\plugins\*.*"
 attrib +s +r +h "C:\ProgramData\Tenable\Nessus\nessus\plugin_feed_info.inc"
