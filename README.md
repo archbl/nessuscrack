@@ -12,8 +12,6 @@ To generate a Nessus Professional Key using the script, simply run the following
 python nessuskeygen.py
 ```
 
-If you prefer a Windows executable, you can download `nessuskeygen.exe` and click the "Generate Key" button to generate a key.
-
 ## Start or Stop Nessus
 
 ### Windows Command-Line Operation
